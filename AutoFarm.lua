@@ -1,5 +1,3 @@
--- TheRealAsu/BABFT AutoFarm - standalone source
-
 if game.PlaceId ~= 537413528 then
     return
 end
